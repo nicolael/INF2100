@@ -1,0 +1,4 @@
+Binding on line 2: integer was declared in <type decl> in the library
+Binding on line 3: integer was declared in <type decl> in the library
+Binding on line 5: w was declared in <var decl> on line 3
+Binding on line 5: v was declared in <var decl> on line 2

@@ -1,0 +1,5 @@
+Binding on line 3: integer was declared in <type decl> in the library
+Binding on line 3: char was declared in <type decl> in the library
+Binding on line 4: integer was declared in <type decl> in the library
+Binding on line 5: char was declared in <type decl> in the library
+Binding on line 10: f was declared in <proc decl> on line 3
